@@ -6,5 +6,5 @@ function calcola() {
     // Esempio di una semplice funzione matematica (somma dei numeri)
     var risultato = num1 + num2 + num3;
     
-    document.getElementById('risultato').innerHTML = "Il risultato è: " + risultato;
+    document.getElementById('risultato').innerHTML = "Il numero magico per la superbirra è: " + risultato;
 }
